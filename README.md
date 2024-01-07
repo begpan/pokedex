@@ -6,4 +6,5 @@ Pokedex is a web application that serves as a comprehensive guide to Pokemon. It
 
 <h2>Screen Gif<h2>
 
+![pokedex](https://github.com/begpan/pokedex/assets/145170180/c10f33a8-bb05-48d8-99f1-f99d6faf6c1d)
 
