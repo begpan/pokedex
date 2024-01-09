@@ -4,9 +4,10 @@
 The website is built using basic HTML, CSS, and JavaScript, and it utilizes the PokeAPI to fetch data on Pokemon.
 Pokedex is a web application that serves as a comprehensive guide to Pokemon. It allows users to search for information on different Pokemon species, including their characteristics, abilities, types, and evolutions. 
 
-<h3>Link<h3>
+<h3>Links<h3>
 
 https://ppokedexx.netlify.app/
+https://pokedex-one-jet.vercel.app/
 
 <h2>Screen Gif<h2>
 
