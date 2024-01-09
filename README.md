@@ -6,7 +6,7 @@ Pokedex is a web application that serves as a comprehensive guide to Pokemon. It
 
 <h3>Links<h3>
 
-https://ppokedexx.netlify.app/
+https://ppokedexx.netlify.app/ </br>
 https://pokedex-one-jet.vercel.app/
 
 <h2>Screen Gif<h2>
